@@ -1,0 +1,15 @@
+# KiCad temporäre und Sperrdateien
+*.lck
+~*
+_autosave-*
+
+# Automatische Backups
+*-backups/
+*.bak
+
+# Cache und lokale Benutzereinstellungen
+*.kicad_prl
+fp-info-cache
+
+# Optional: Gerber-Dateien / Exporte (falls du sie nicht tracken willst)
+gerber/

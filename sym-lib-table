@@ -1,0 +1,6 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "Custom_Library") (type "KiCad") (uri "${KIPRJMOD}/Libraries/AP7361C_33Y5_13/KiCADv6/2026-08-17_10-24-11.kicad_sym") (options "") (descr ""))
+	(lib (name "10164227-0701A1RLF") (type "KiCad") (uri "${KIPRJMOD}/Libraries/10164227_0701A1RLF/10164227-0701A1RLF.kicad_sym") (options "") (descr ""))
+	(lib (name "10164228-0701A1RLF") (type "KiCad") (uri "${KIPRJMOD}/Libraries/10164228_0701A1RLF(1)/10164228-0701A1RLF.kicad_sym") (options "") (descr ""))
+)
