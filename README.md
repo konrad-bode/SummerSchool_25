@@ -32,5 +32,13 @@ The carrier board interfaces with a custom HeiChips FPGA breakout module via a 7
 
 ---
 
+## TODO
+[ ] HDMI differential pair length matching and impedance tuning.
+[ ] Project selection per jumper
+[ ] Connect GPIOs from FPGA to Microcontroller UART? 
+[ ] Check SMA distance
+
+---
+
 ## 👤 Author
 * **Konrad Bode** 
