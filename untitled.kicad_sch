@@ -3945,7 +3945,7 @@
 				)
 			)
 		)
-		(property "Footprint" "10164227_0701A1RLF:AMPHENOL_10164227-0701A1RLF"
+		(property "Footprint" "SummerSchool:AMPHENOL_10164227-0701A1RLF"
 			(at 142.24 95.25 0)
 			(hide yes)
 			(show_name no)
