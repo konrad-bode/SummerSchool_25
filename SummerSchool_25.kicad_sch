@@ -8724,6 +8724,16 @@
 		)
 		(uuid "59a9fa09-cbe5-446c-b014-4b98231c2703")
 	)
+	(text "RESET"
+		(exclude_from_sim no)
+		(at 67.056 109.982 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "8d54aa67-2ac1-45fe-a060-8094a4c60355")
+	)
 	(text "RPI FLASH"
 		(exclude_from_sim no)
 		(at 18.542 155.956 0)
@@ -8778,6 +8788,16 @@
 			)
 		)
 		(uuid "dd4a30d2-9a62-4618-896d-a2df300ee9ba")
+	)
+	(text "Bootmode"
+		(exclude_from_sim no)
+		(at 17.78 109.728 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "fb01596c-214d-4622-8c4e-7d95f8433b6f")
 	)
 	(text "LDO"
 		(exclude_from_sim no)
