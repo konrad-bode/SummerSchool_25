@@ -8767,7 +8767,7 @@
 		)
 		(uuid "a0bd64df-e797-4cd5-aacd-578bf83fc566")
 	)
-	(text "FPGA CORE BUCK"
+	(text "FPGA CORE ldo\n"
 		(exclude_from_sim no)
 		(at 184.658 125.476 0)
 		(effects
